@@ -1,0 +1,50 @@
+[submodule "submodules/sonarr"]
+	path = submodules/sonarr
+	url = https://github.com/sonarr/sonarr
+[submodule "submodules/radarr"]
+	path = submodules/radarr
+	url = https://github.com/radarr/radarr
+[submodule "submodules/prowlarr"]
+	path = submodules/prowlarr
+	url = https://github.com/prowlarr/prowlarr
+[submodule "submodules/profilarr"]
+	path = submodules/profilarr
+	url = https://github.com/Dictionarry-Hub/profilarr
+[submodule "submodules/seerr"]
+	path = submodules/seerr
+	url = https://github.com/seerr-team/seerr
+[submodule "submodules/bazarr"]
+	path = submodules/bazarr
+	url = https://github.com/morpheus65535/bazarr
+[submodule "submodules/lidarr"]
+	path = submodules/lidarr
+	url = https://github.com/Lidarr/Lidarr
+[submodule "submodules/jackett"]
+	path = submodules/jackett
+	url = https://github.com/Jackett/Jackett
+[submodule "submodules/autobrr"]
+	path = submodules/autobrr
+	url = https://github.com/autobrr/autobrr
+[submodule "submodules/recyclarr"]
+	path = submodules/recyclarr
+	url = https://github.com/recyclarr/recyclarr
+[submodule "submodules/cleanuparr"]
+	path = submodules/cleanuparr
+	url = https://github.com/Cleanuparr/Cleanuparr
+[submodule "submodules/unpackerr"]
+	path = submodules/unpackerr
+	url = https://github.com/Unpackerr/unpackerr
+[submodule "submodules/bookshelf"]
+	path = submodules/bookshelf
+	url = https://github.com/pennydreadful/bookshelf
+[submodule "submodules/kapowarr"]
+	path = submodules/kapowarr
+	url = https://github.com/Casvt/Kapowarr
+[submodule "submodules/whisparr"]
+	path = submodules/whisparr
+	url = https://github.com/Whisparr/Whisparr
+	branch = v2-develop
+[submodule "submodules/whisparr-eros"]
+	path = submodules/whisparr-eros
+	url = https://github.com/Whisparr/Whisparr-Eros
+	branch = eros-develop
